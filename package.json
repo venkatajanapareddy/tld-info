@@ -1,6 +1,6 @@
 {
   "name": "tld-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A complete, typed dataset of all valid top-level domains (TLDs) with metadata, utilities, and CLI.",
   "type": "module",
   "author": "Venkata Phanindra Kumar Janapareddy",
