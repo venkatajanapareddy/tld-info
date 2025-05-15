@@ -2,10 +2,10 @@
 
 A complete, typed dataset of all valid top-level domains (TLDs) with metadata, utilities, and CLI. This modern TypeScript library provides an enriched and developer-friendly TLD dataset, designed as an upgrade over existing packages like `tlds`.
 
-[![CI/CD](https://github.com/venkatajanapareddy/tld-info/actions/workflows/main.yml/badge.svg)](https://github.com/venkatajanapareddy/tld-info/actions/workflows/main.yml)
+[![CI](https://github.com/venkatajanapareddy/tld-info/actions/workflows/main.yml/badge.svg)](https://github.com/venkatajanapareddy/tld-info/actions/workflows/main.yml)
 [![npm version](https://img.shields.io/npm/v/tld-info.svg)](https://www.npmjs.com/package/tld-info)
-[![npm downloads](https://img.shields.io/npm/dm/tld-info.svg)](https://www.npmjs.com/package/tld-info)
 [![License](https://img.shields.io/github/license/venkatajanapareddy/tld-info)](https://github.com/venkatajanapareddy/tld-info/blob/main/LICENSE)
+[![Bundle Size](https://img.shields.io/bundlephobia/minzip/tld-info)](https://bundlephobia.com/package/tld-info)
 
 **Features:**
 
